@@ -20,7 +20,7 @@ Raw weather data is often fragmented or detached from daily human needs. Standar
 * **Interactive Geocoding Resolution:** Resolves user-entered city names into a list of up to 5 matching geographic locations (displaying City, State, and Country) using OpenWeather's Geocoding API to prevent ambiguous lookups.
 * **Real-Time Current Metrics:** Captures localized temperature, perceived ("feels like") temperature, humidity levels, atmospheric pressure, wind speeds, and exact visibility ranges.
 * **Dynamic Timezone Localization:** Automatically converts UTC sunrise and sunset timestamps into the exact local time of the queried target city using real-time timezone offsets.
-* **3-Hour Interval 5-Day Forecasting:** Aggregates extended forecasting data and filters outputs to deliver a clean mid-day summary for upcoming dates.
+* **5-Day Forecasting:** Aggregates extended forecasting data and filters outputs to deliver a clean mid-day summary for upcoming dates which can further be modified for 3-hours, 5-days forecasting.
 * **Rule-Based Recommendation Engine:** Employs situational algorithms to output clothing recommendations based on thermal tiers and weather alerts (e.g., advising umbrellas for rain or warning against outdoor activities during thunderstorms).
 
 ---
