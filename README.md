@@ -8,11 +8,6 @@ The **Smart Weather Assistant** is a command-line utility built in Python that d
 
 Raw weather data is often fragmented or detached from daily human needs. Standard weather apps inundate users with figures (such as hectopascals or wind velocity) without contextualizing what those numbers mean for their immediate routine. This assistant bridges that gap by interpreting live metrics into direct actionable advice.
 
-### Who It Is For
-
-* **Developers & Students:** Individuals looking for a clean, modular reference implementation of geographical and meteorological API integrations.
-* **CLI Enthusiasts:** Users who prefer a lightweight, terminal-based workspace over resource-heavy web or mobile applications.
-
 ### Why It Is Useful
 
 * **Intelligent Location Parsing:** It handles ambiguous location names by presenting multiple geographic candidates, allowing you to choose the exact city, state, and country you intend to look up.
